@@ -61,3 +61,6 @@ def break_dance
   end
 end
 end
+first_steps
+a_few_more_steps
+break_dance 
